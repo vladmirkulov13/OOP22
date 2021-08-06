@@ -1,15 +1,15 @@
-# OOP labs
-# 2 Lab
+## OOP labs
+### 2 Lab
 Create package functions, classes and interfaces to work with functions.
-# 3 Lab
+### 3 Lab
 Create and add Exceptions. Array and Linked list.
-# 4 Lab
+### 4 Lab
 Methods for in and output functions with streams. Using interface Serializable.
-# 5 Lab
+### 5 Lab
 Ovveride methods of class Object.
-# 6 Lab
+### 6 Lab
 GUI with Swing.
-# 7 Lab
+### 7 Lab
 MultiThread programming. Using two different threads for calculations.
-# 8 Lab 
+### 8 Lab 
 Patterns "Iterator" and "Fabric", reflection.
